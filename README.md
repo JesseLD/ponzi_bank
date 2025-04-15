@@ -1,6 +1,6 @@
 # Ponzibank - The Green Pyramid Bank 🟢
 
-**ENGLISH | [PORTUGUÊS](#ponzibank---o-banco-da-pirâmide-verde-)**
+**ENGLISH | [PORTUGUÊS](#ponzi-bank---o-banco-da-pirâmide-verde-)**
 
 ## About the Project
 Ponzibank is a satirical clone of Nubank, designed to humorously mimic a Ponzi scheme. Built with **Flutter**, **Laravel**, and **MySQL**, it offers a fun and interactive way to showcase modern app development skills.
@@ -30,14 +30,14 @@ Ponzibank is a satirical clone of Nubank, designed to humorously mimic a Ponzi s
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ponzibank.git
-   cd ponzibank
+   git clone https://github.com/jesseld/ponzi-bank.git
+   cd ponzi-bank
    ```
 
 2. **Backend Setup (Laravel):**
-   - Navigate to the `backend` folder:
+   - Navigate to the `ponzi-backend` folder:
      ```bash
-     cd backend
+     cd ponzi-backend
      ```
    - Install dependencies:
      ```bash
@@ -58,9 +58,9 @@ Ponzibank is a satirical clone of Nubank, designed to humorously mimic a Ponzi s
      ```
 
 3. **Frontend Setup (Flutter):**
-   - Navigate to the `frontend` folder:
+   - Navigate to the `ponzi-app` folder:
      ```bash
-     cd ../frontend
+     cd ../ponzi-app
      ```
    - Install dependencies:
      ```bash
@@ -115,14 +115,14 @@ Ponzibank é um clone satírico do Nubank, projetado para imitar humoristicament
 ### Passos
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/your-username/ponzibank.git
-   cd ponzibank
+   git clone https://github.com/jesseld/ponzi-bank.git
+   cd ponzi-bank
    ```
 
 2. **Configuração do Backend (Laravel):**
-   - Navegue até a pasta `backend`:
+   - Navegue até a pasta `ponzi-backend`:
      ```bash
-     cd backend
+     cd ponzi-backend
      ```
    - Instale as dependências:
      ```bash
@@ -143,9 +143,9 @@ Ponzibank é um clone satírico do Nubank, projetado para imitar humoristicament
      ```
 
 3. **Configuração do Frontend (Flutter):**
-   - Navegue até a pasta `frontend`:
+   - Navegue até a pasta `ponzi-app`:
      ```bash
-     cd ../frontend
+     cd ../ponzi-app
      ```
    - Instale as dependências:
      ```bash
